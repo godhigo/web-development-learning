@@ -1,0 +1,10 @@
+# Obsidian system & workspace settings
+**/notes/.obsidian/
+
+# Obsidian local backups
+**/notes/.obsidian-local-backup-*/
+
+# General OS & editor files
+.DS_Store
+Thumbs.db
+.vscode/
